@@ -1,17 +1,19 @@
-# Guilherme
+# Guilherme — Systems Analyst | Computer Science
 
-Analista de sistemas. Cursa **ciência da computação**. Desenvolvimento de aplicativos Android e ferramentas Windows para operação de loja: estoque, conferência, inventário e integração com o sistema que a loja já usa.
+Systems Analyst. Computer Science student.
 
-O trabalho de produção fica em repositórios privados.
+I build Android apps and Windows tools for store operations: inventory, stock counts, and integration with the system the store already uses.
+
+Production work stays in private repositories.
 
 ## Stack
 
 - **Android:** Kotlin, Jetpack Compose
 - **Backend / desktop:** Python, FastAPI, Windows
-- **Dados:** Firebird, APIs locais na rede da loja
+- **Data:** Firebird, local APIs on the store network
 
-## Como trabalho
+## How I work
 
-- Código pensado para o dia a dia da loja, não só para demo
-- Cliente Android + servidor no PC, na mesma Wi-Fi
-- Entrega por loja, sem misturar fonte de um cliente com outro
+- Code for day-to-day store use, not just demos
+- Android client + PC server on the same Wi-Fi
+- Per-store delivery, without mixing one client’s source with another
