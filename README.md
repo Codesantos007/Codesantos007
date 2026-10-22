@@ -1,6 +1,6 @@
 # Guilherme
 
-Estudante. Desenvolvimento de **aplicativos Android** e **ferramentas Windows** para operação de loja: estoque, conferência, inventário e integração com o sistema que a loja já usa.
+Analista de sistemas. Cursa **ciência da computação**. Desenvolvimento de aplicativos Android e ferramentas Windows para operação de loja: estoque, conferência, inventário e integração com o sistema que a loja já usa.
 
 O trabalho de produção fica em repositórios privados.
 
